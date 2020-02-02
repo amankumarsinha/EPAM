@@ -1,4 +1,4 @@
-package com.aman;
+package com.epam;
 
 import static org.junit.Assert.assertTrue;
 
